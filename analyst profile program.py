@@ -18,6 +18,8 @@ print()
 print("--- Grade 4 Goals ---")
 print ("Goal 1: Master Phython data types and structures")
 print("Goal 2:Build fucntions and important modules")
-print("Goal 3: Read and write data files")
-print(" Goal 4:Build OOP programs with classes")
+print("Goal 3: Read and writeld OOP prog data files")
+print(" Goal 4:Buirams with classes")
 print ("-" * 40)
+
+
